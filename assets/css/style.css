@@ -1,0 +1,43 @@
+img {
+    width: 200px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+.btn-lg {
+    position: relative;
+    margin: 5px;
+    border-radius: 100px;
+    left: 325px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+#namer {
+    margin-top: 200px;
+    text-align: center;
+}
+
+#name-input {
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    width: 200px;
+}
+
+#name-button {
+    display: table;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+
+#show-score {
+    text-align: center;
+}
+
+#show-winning {
+    text-align: center;
+}
